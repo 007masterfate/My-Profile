@@ -103,6 +103,9 @@ li {
     padding-right:100px;
     padding-left:20px;
 
+  } 
+  body{
+    overflow-y: visible;
   }
   .card-body{
     font-size:20px;
